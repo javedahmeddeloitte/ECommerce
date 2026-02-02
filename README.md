@@ -22,14 +22,14 @@ Centralizes cross-cutting concerns such as authentication/authorization, request
 
 
 
-Catalog Service
+### Catalog Service
 
 Manages product information (SKUs, pricing, attributes, availability metadata).
 Optimized for read-heavy browsing use cases.
 
 
 
-Order Service
+### Order Service
 
 Receives and validates order requests.
 Persists order state and coordinates order lifecycle progression.
@@ -37,7 +37,7 @@ Uses MongoDB as its primary datastore.
 
 
 
-Payment Service
+### Payment Service
 
 Handles payment initiation, processing, and status tracking.
 Uses idempotency keys to ensure safe retries and prevent duplicate charges.
@@ -45,7 +45,7 @@ Implements automatic retry on failed payments (with controlled retry policies).
 
 
 
-Fulfillment Service
+### Fulfillment Service
 
 Manages shipment creation, allocation, and delivery status updates.
 Integrates with fulfillment workflows and downstream logistics (if applicable).
