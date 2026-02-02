@@ -1,0 +1,11 @@
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.CQRS\bin\Debug\net10.0\CatalogService.CQRS.deps.json
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.CQRS\bin\Debug\net10.0\CatalogService.CQRS.dll
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.CQRS\bin\Debug\net10.0\CatalogService.CQRS.pdb
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.CQRS\obj\Debug\net10.0\CatalogService.CQRS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.CQRS\obj\Debug\net10.0\CatalogService.CQRS.AssemblyInfoInputs.cache
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.CQRS\obj\Debug\net10.0\CatalogService.CQRS.AssemblyInfo.cs
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.CQRS\obj\Debug\net10.0\CatalogService.CQRS.csproj.CoreCompileInputs.cache
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.CQRS\obj\Debug\net10.0\CatalogService.CQRS.dll
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.CQRS\obj\Debug\net10.0\refint\CatalogService.CQRS.dll
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.CQRS\obj\Debug\net10.0\CatalogService.CQRS.pdb
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.CQRS\obj\Debug\net10.0\ref\CatalogService.CQRS.dll

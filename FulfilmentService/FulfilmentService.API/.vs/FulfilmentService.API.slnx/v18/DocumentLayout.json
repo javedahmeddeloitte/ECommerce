@@ -1,0 +1,353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9838DA6-797C-41B2-BD0D-4E1B9B1575A6}|FulfilmentService.API.csproj|c:\\users\\javedahmed\\source\\repos\\fulfilmentservice\\fulfilmentservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9838DA6-797C-41B2-BD0D-4E1B9B1575A6}|FulfilmentService.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E21EE14-0D0B-4F0B-9BD7-8DB82B60FA91}|..\\FulfilmentService.Business\\FulfilmentService.Business.csproj|c:\\users\\javedahmed\\source\\repos\\fulfilmentservice\\fulfilmentservice.business\\service\\fulfillmentcommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9838DA6-797C-41B2-BD0D-4E1B9B1575A6}|FulfilmentService.API.csproj|c:\\users\\javedahmed\\source\\repos\\fulfilmentservice\\fulfilmentservice.api\\controllers\\fulfillmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9838DA6-797C-41B2-BD0D-4E1B9B1575A6}|FulfilmentService.API.csproj|solutionrelative:controllers\\fulfillmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9838DA6-797C-41B2-BD0D-4E1B9B1575A6}|FulfilmentService.API.csproj|c:\\users\\javedahmed\\source\\repos\\fulfilmentservice\\fulfilmentservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9838DA6-797C-41B2-BD0D-4E1B9B1575A6}|FulfilmentService.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53DC2622-0C45-47A1-BA36-F27B80273A2C}|..\\FulfilmentService.Repository\\FulfilmentService.Repository.csproj|c:\\users\\javedahmed\\source\\repos\\fulfilmentservice\\fulfilmentservice.repository\\repository\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53DC2622-0C45-47A1-BA36-F27B80273A2C}|..\\FulfilmentService.Repository\\FulfilmentService.Repository.csproj|c:\\users\\javedahmed\\source\\repos\\fulfilmentservice\\fulfilmentservice.repository\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53DC2622-0C45-47A1-BA36-F27B80273A2C}|..\\FulfilmentService.Repository\\FulfilmentService.Repository.csproj|c:\\users\\javedahmed\\source\\repos\\fulfilmentservice\\fulfilmentservice.repository\\repository\\fulfillmentqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53DC2622-0C45-47A1-BA36-F27B80273A2C}|..\\FulfilmentService.Repository\\FulfilmentService.Repository.csproj|c:\\users\\javedahmed\\source\\repos\\fulfilmentservice\\fulfilmentservice.repository\\interface\\idbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E21EE14-0D0B-4F0B-9BD7-8DB82B60FA91}|..\\FulfilmentService.Business\\FulfilmentService.Business.csproj|c:\\users\\javedahmed\\source\\repos\\fulfilmentservice\\fulfilmentservice.business\\interface\\ifulfillmentqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E21EE14-0D0B-4F0B-9BD7-8DB82B60FA91}|..\\FulfilmentService.Business\\FulfilmentService.Business.csproj|c:\\users\\javedahmed\\source\\repos\\fulfilmentservice\\fulfilmentservice.business\\service\\fulfillmentqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53DC2622-0C45-47A1-BA36-F27B80273A2C}|..\\FulfilmentService.Repository\\FulfilmentService.Repository.csproj|c:\\users\\javedahmed\\source\\repos\\fulfilmentservice\\fulfilmentservice.repository\\dbmodels\\fulfillment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53DC2622-0C45-47A1-BA36-F27B80273A2C}|..\\FulfilmentService.Repository\\FulfilmentService.Repository.csproj|c:\\users\\javedahmed\\source\\repos\\fulfilmentservice\\fulfilmentservice.repository\\repository\\fulfillmentcommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D972263D-4D37-4087-8E55-F225A53437A1}|..\\FulfilmentService.Model\\FulfilmentService.Model.csproj|c:\\users\\javedahmed\\source\\repos\\fulfilmentservice\\fulfilmentservice.model\\orderupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D972263D-4D37-4087-8E55-F225A53437A1}|..\\FulfilmentService.Model\\FulfilmentService.Model.csproj|c:\\users\\javedahmed\\source\\repos\\fulfilmentservice\\fulfilmentservice.model\\fulfilmentservice.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9838DA6-797C-41B2-BD0D-4E1B9B1575A6}|FulfilmentService.API.csproj|c:\\users\\javedahmed\\source\\repos\\fulfilmentservice\\fulfilmentservice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9838DA6-797C-41B2-BD0D-4E1B9B1575A6}|FulfilmentService.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E21EE14-0D0B-4F0B-9BD7-8DB82B60FA91}|..\\FulfilmentService.Business\\FulfilmentService.Business.csproj|c:\\users\\javedahmed\\source\\repos\\fulfilmentservice\\fulfilmentservice.business\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E21EE14-0D0B-4F0B-9BD7-8DB82B60FA91}|..\\FulfilmentService.Business\\FulfilmentService.Business.csproj|c:\\users\\javedahmed\\source\\repos\\fulfilmentservice\\fulfilmentservice.business\\fulfilmentservice.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9838DA6-797C-41B2-BD0D-4E1B9B1575A6}|FulfilmentService.API.csproj|c:\\users\\javedahmed\\source\\repos\\fulfilmentservice\\fulfilmentservice.api\\fulfilmentservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9838DA6-797C-41B2-BD0D-4E1B9B1575A6}|FulfilmentService.API.csproj|solutionrelative:fulfilmentservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F398A0CC-D570-424C-A480-0BA7DE78DA86}|..\\FulfilmentService.CQRS\\FulfilmentService.CQRS.csproj|c:\\users\\javedahmed\\source\\repos\\fulfilmentservice\\fulfilmentservice.cqrs\\fulfilmentservice.cqrs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53DC2622-0C45-47A1-BA36-F27B80273A2C}|..\\FulfilmentService.Repository\\FulfilmentService.Repository.csproj|c:\\users\\javedahmed\\source\\repos\\fulfilmentservice\\fulfilmentservice.repository\\fulfilmentservice.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 101,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-01T12:58:21.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FulFillmentController.cs",
+              "DocumentMoniker": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.API\\Controllers\\FulFillmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FulFillmentController.cs",
+              "ToolTip": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.API\\Controllers\\FulFillmentController.cs",
+              "RelativeToolTip": "Controllers\\FulFillmentController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:13:09.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FulfillmentCommandService.cs",
+              "DocumentMoniker": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.Business\\Service\\FulfillmentCommandService.cs",
+              "RelativeDocumentMoniker": "..\\FulfilmentService.Business\\Service\\FulfillmentCommandService.cs",
+              "ToolTip": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.Business\\Service\\FulfillmentCommandService.cs",
+              "RelativeToolTip": "..\\FulfilmentService.Business\\Service\\FulfillmentCommandService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAIA5wDEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:56:48.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T12:51:07.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.Repository\\Repository\\DbConnectionFactory.cs",
+              "RelativeDocumentMoniker": "..\\FulfilmentService.Repository\\Repository\\DbConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.Repository\\Repository\\DbConnectionFactory.cs",
+              "RelativeToolTip": "..\\FulfilmentService.Repository\\Repository\\DbConnectionFactory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:46:06.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.Repository\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\FulfilmentService.Repository\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.Repository\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\FulfilmentService.Repository\\DependencyInjection.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T12:56:36.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDbConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.Repository\\Interface\\IDbConnectionFactory.cs",
+              "RelativeDocumentMoniker": "..\\FulfilmentService.Repository\\Interface\\IDbConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.Repository\\Interface\\IDbConnectionFactory.cs",
+              "RelativeToolTip": "..\\FulfilmentService.Repository\\Interface\\IDbConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:45:36.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FulfillmentQueryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.Repository\\Repository\\FulfillmentQueryRepository.cs",
+              "RelativeDocumentMoniker": "..\\FulfilmentService.Repository\\Repository\\FulfillmentQueryRepository.cs",
+              "ToolTip": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.Repository\\Repository\\FulfillmentQueryRepository.cs",
+              "RelativeToolTip": "..\\FulfilmentService.Repository\\Repository\\FulfillmentQueryRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAawBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T15:44:59.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IFulfillmentQueryService.cs",
+              "DocumentMoniker": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.Business\\Interface\\IFulfillmentQueryService.cs",
+              "RelativeDocumentMoniker": "..\\FulfilmentService.Business\\Interface\\IFulfillmentQueryService.cs",
+              "ToolTip": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.Business\\Interface\\IFulfillmentQueryService.cs",
+              "RelativeToolTip": "..\\FulfilmentService.Business\\Interface\\IFulfillmentQueryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T14:15:42.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FulfillmentQueryService.cs",
+              "DocumentMoniker": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.Business\\Service\\FulfillmentQueryService.cs",
+              "RelativeDocumentMoniker": "..\\FulfilmentService.Business\\Service\\FulfillmentQueryService.cs",
+              "ToolTip": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.Business\\Service\\FulfillmentQueryService.cs",
+              "RelativeToolTip": "..\\FulfilmentService.Business\\Service\\FulfillmentQueryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T14:12:18.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FulfillmentCommandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.Repository\\Repository\\FulfillmentCommandRepository.cs",
+              "RelativeDocumentMoniker": "..\\FulfilmentService.Repository\\Repository\\FulfillmentCommandRepository.cs",
+              "ToolTip": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.Repository\\Repository\\FulfillmentCommandRepository.cs",
+              "RelativeToolTip": "..\\FulfilmentService.Repository\\Repository\\FulfillmentCommandRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:15:16.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.Model\\OrderUpdate.cs",
+              "RelativeDocumentMoniker": "..\\FulfilmentService.Model\\OrderUpdate.cs",
+              "ToolTip": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.Model\\OrderUpdate.cs",
+              "RelativeToolTip": "..\\FulfilmentService.Model\\OrderUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:16:23.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Fulfillment.cs",
+              "DocumentMoniker": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.Repository\\DBModels\\Fulfillment.cs",
+              "RelativeDocumentMoniker": "..\\FulfilmentService.Repository\\DBModels\\Fulfillment.cs",
+              "ToolTip": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.Repository\\DBModels\\Fulfillment.cs",
+              "RelativeToolTip": "..\\FulfilmentService.Repository\\DBModels\\Fulfillment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:13:11.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FulfilmentService.Model",
+              "DocumentMoniker": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.Model\\FulfilmentService.Model.csproj",
+              "RelativeDocumentMoniker": "..\\FulfilmentService.Model\\FulfilmentService.Model.csproj",
+              "ToolTip": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.Model\\FulfilmentService.Model.csproj",
+              "RelativeToolTip": "..\\FulfilmentService.Model\\FulfilmentService.Model.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-31T15:42:25.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-01T12:52:44.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.Business\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\FulfilmentService.Business\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.Business\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\FulfilmentService.Business\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T12:59:50.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FulfilmentService.Business",
+              "DocumentMoniker": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.Business\\FulfilmentService.Business.csproj",
+              "RelativeDocumentMoniker": "..\\FulfilmentService.Business\\FulfilmentService.Business.csproj",
+              "ToolTip": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.Business\\FulfilmentService.Business.csproj",
+              "RelativeToolTip": "..\\FulfilmentService.Business\\FulfilmentService.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-31T15:42:10.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FulfilmentService.CQRS",
+              "DocumentMoniker": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.CQRS\\FulfilmentService.CQRS.csproj",
+              "RelativeDocumentMoniker": "..\\FulfilmentService.CQRS\\FulfilmentService.CQRS.csproj",
+              "ToolTip": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.CQRS\\FulfilmentService.CQRS.csproj",
+              "RelativeToolTip": "..\\FulfilmentService.CQRS\\FulfilmentService.CQRS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-31T15:39:05.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FulfilmentService.API",
+              "DocumentMoniker": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.API\\FulfilmentService.API.csproj",
+              "RelativeDocumentMoniker": "FulfilmentService.API.csproj",
+              "ToolTip": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.API\\FulfilmentService.API.csproj",
+              "RelativeToolTip": "FulfilmentService.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-01T12:51:10.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FulfilmentService.Repository",
+              "DocumentMoniker": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.Repository\\FulfilmentService.Repository.csproj",
+              "RelativeDocumentMoniker": "..\\FulfilmentService.Repository\\FulfilmentService.Repository.csproj",
+              "ToolTip": "C:\\Users\\javedahmed\\source\\repos\\FulfilmentService\\FulfilmentService.Repository\\FulfilmentService.Repository.csproj",
+              "RelativeToolTip": "..\\FulfilmentService.Repository\\FulfilmentService.Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-31T15:39:01.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

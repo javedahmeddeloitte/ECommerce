@@ -1,0 +1,11 @@
+C:\Users\javedahmed\source\repos\FulfilmentService\FulfilmentService.CQRS\bin\Debug\net10.0\FulfilmentService.CQRS.deps.json
+C:\Users\javedahmed\source\repos\FulfilmentService\FulfilmentService.CQRS\bin\Debug\net10.0\FulfilmentService.CQRS.dll
+C:\Users\javedahmed\source\repos\FulfilmentService\FulfilmentService.CQRS\bin\Debug\net10.0\FulfilmentService.CQRS.pdb
+C:\Users\javedahmed\source\repos\FulfilmentService\FulfilmentService.CQRS\obj\Debug\net10.0\FulfilmentService.CQRS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javedahmed\source\repos\FulfilmentService\FulfilmentService.CQRS\obj\Debug\net10.0\FulfilmentService.CQRS.AssemblyInfoInputs.cache
+C:\Users\javedahmed\source\repos\FulfilmentService\FulfilmentService.CQRS\obj\Debug\net10.0\FulfilmentService.CQRS.AssemblyInfo.cs
+C:\Users\javedahmed\source\repos\FulfilmentService\FulfilmentService.CQRS\obj\Debug\net10.0\FulfilmentService.CQRS.csproj.CoreCompileInputs.cache
+C:\Users\javedahmed\source\repos\FulfilmentService\FulfilmentService.CQRS\obj\Debug\net10.0\FulfilmentService.CQRS.dll
+C:\Users\javedahmed\source\repos\FulfilmentService\FulfilmentService.CQRS\obj\Debug\net10.0\refint\FulfilmentService.CQRS.dll
+C:\Users\javedahmed\source\repos\FulfilmentService\FulfilmentService.CQRS\obj\Debug\net10.0\FulfilmentService.CQRS.pdb
+C:\Users\javedahmed\source\repos\FulfilmentService\FulfilmentService.CQRS\obj\Debug\net10.0\ref\FulfilmentService.CQRS.dll

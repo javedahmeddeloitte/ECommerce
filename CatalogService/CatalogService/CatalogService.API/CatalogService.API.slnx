@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../CatalogService.Business/CatalogService.Business.csproj" />
+  <Project Path="../CatalogService.CQRS/CatalogService.CQRS.csproj" />
+  <Project Path="../CatalogService.Model/CatalogService.Model.csproj" />
+  <Project Path="../CatalogService.Repository/CatalogService.Repository.csproj" />
+  <Project Path="CatalogService.API.csproj" />
+</Solution>

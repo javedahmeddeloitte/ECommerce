@@ -1,0 +1,17 @@
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.Repository\obj\Debug\net10.0\CatalogService.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.Repository\obj\Debug\net10.0\CatalogService.Repository.AssemblyInfoInputs.cache
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.Repository\obj\Debug\net10.0\CatalogService.Repository.AssemblyInfo.cs
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.Repository\obj\Debug\net10.0\CatalogService.Repository.csproj.CoreCompileInputs.cache
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.Repository\bin\Debug\net10.0\CatalogService.Repository.deps.json
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.Repository\bin\Debug\net10.0\CatalogService.Repository.dll
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.Repository\bin\Debug\net10.0\CatalogService.Repository.pdb
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.Repository\bin\Debug\net10.0\CatalogService.Model.dll
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.Repository\bin\Debug\net10.0\CatalogService.Model.pdb
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.Repository\obj\Debug\net10.0\CatalogService.Repository.csproj.AssemblyReference.cache
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.Repository\obj\Debug\net10.0\CatalogS.5773077D.Up2Date
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.Repository\obj\Debug\net10.0\CatalogService.Repository.dll
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.Repository\obj\Debug\net10.0\refint\CatalogService.Repository.dll
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.Repository\obj\Debug\net10.0\CatalogService.Repository.pdb
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.Repository\obj\Debug\net10.0\ref\CatalogService.Repository.dll
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.Repository\bin\Debug\net10.0\CatalogService.Repository.runtimeconfig.json
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.Repository\obj\Debug\net10.0\CatalogService.Repository.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.Model\obj\Debug\net10.0\CatalogService.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.Model\obj\Debug\net10.0\CatalogService.Model.AssemblyInfoInputs.cache
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.Model\obj\Debug\net10.0\CatalogService.Model.AssemblyInfo.cs
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.Model\obj\Debug\net10.0\CatalogService.Model.csproj.CoreCompileInputs.cache
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.Model\bin\Debug\net10.0\CatalogService.Model.deps.json
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.Model\bin\Debug\net10.0\CatalogService.Model.dll
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.Model\bin\Debug\net10.0\CatalogService.Model.pdb
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.Model\obj\Debug\net10.0\CatalogService.Model.dll
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.Model\obj\Debug\net10.0\refint\CatalogService.Model.dll
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.Model\obj\Debug\net10.0\CatalogService.Model.pdb
+C:\Users\javedahmed\source\repos\CatalogService\CatalogService\CatalogService.Model\obj\Debug\net10.0\ref\CatalogService.Model.dll

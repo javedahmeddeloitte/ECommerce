@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../FulfilmentService.Business/FulfilmentService.Business.csproj" />
+  <Project Path="../FulfilmentService.CQRS/FulfilmentService.CQRS.csproj" />
+  <Project Path="../FulfilmentService.Model/FulfilmentService.Model.csproj" />
+  <Project Path="../FulfilmentService.Repository/FulfilmentService.Repository.csproj" />
+  <Project Path="FulfilmentService.API.csproj" />
+</Solution>

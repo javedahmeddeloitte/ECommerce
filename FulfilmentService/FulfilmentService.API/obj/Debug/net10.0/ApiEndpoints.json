@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "FulfilmentService.API.Controllers.FulFillmentController",
+    "Method": "OrderFulfilmentAsync",
+    "RelativePath": "api/fulfillment/orderFulfillment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cmd",
+        "Type": "FulfilmentService.CQRS.Command.OrderFulfillmentCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
